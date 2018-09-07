@@ -1,6 +1,5 @@
 <?php
 	include('connect.php');
-
 	$info = array();
 	$content = $_POST['content'];
 	$id = $_POST['id'];
